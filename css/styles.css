@@ -124,6 +124,7 @@ p {
     grid-column: 2/3;
   }
   .content .grid-2 .star-card {
+    width: 460px;
     margin-left: 0;
     margin-right: 0;
     flex-direction: row;
