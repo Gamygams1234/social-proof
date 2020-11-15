@@ -128,7 +128,6 @@ p {
     margin-left: 0;
     margin-right: 0;
     flex-direction: row;
-    width: 70%;
     padding: 1.5em 2em 1.5em 2em;
     justify-content: start;
   }
